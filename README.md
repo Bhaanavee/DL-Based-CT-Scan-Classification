@@ -11,6 +11,12 @@ This project involves classifying CT scan images using deep learning with Tensor
 - requirements.txt : List of dependencies.
 - ct_env/ and tf_env/ : Virtual environments for the project.
 - archive/ : Archived files.
+
+## Dataset
+The dataset consists of CT scan images categorized into aneurysm, cancer, and tumor. The images are stored in DICOM (.dcm) and JPEG (.jpg) formats.
+
+The dataset used in this project can be found on Kaggle: [Brain CT Scan Dataset](https://www.kaggle.com/datasets/trainingdatapro/computed-tomography-ct-of-the-brain)
+
 ## Setup
 1. 1.
    Clone the repository or navigate to the project directory:
